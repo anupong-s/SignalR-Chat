@@ -1,0 +1,10 @@
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\MainWebChat.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\MainWebChat.pdb
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\Newtonsoft.Json.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\bin\Owin.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\obj\Debug\MainWebChat.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\MainWebChat\obj\Debug\MainWebChat.pdb

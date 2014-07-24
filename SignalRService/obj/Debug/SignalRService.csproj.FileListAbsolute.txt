@@ -1,0 +1,4 @@
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalRService\bin\SignalRService.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalRService\bin\SignalRService.pdb
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalRService\obj\Debug\SignalRService.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalRService\obj\Debug\SignalRService.pdb

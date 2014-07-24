@@ -1,0 +1,17 @@
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\SignalR.Common.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\SignalR.Common.pdb
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Owin.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\obj\Debug\SignalR.Common.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\obj\Debug\SignalR.Common.pdb
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Dll\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Dll\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Dll\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Dll\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Dll\Microsoft.Web.Infrastructure.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Dll\Newtonsoft.Json.dll
+C:\Users\BIRD\Downloads\SignalRChat\SignalRChat\SignalR.Common\bin\Debug\Dll\Owin.dll
